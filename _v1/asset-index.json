@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 265118,
+  "asset_count": 1,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:9d9b9b94d7042f8847399c354f33d1e5938112edcd723a6860029e4078cb7c2c"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "Jolan's Assets",
+      "uuids": [
+        "5d170550-bb77-463a-bf05-85f00df7b130"
+      ],
+      "simple_name": "Jolan's Assets"
+    }
+  ]
+}

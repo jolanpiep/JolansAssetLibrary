@@ -1,0 +1,44 @@
+{
+  "asset_count": 1,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "Fracture & Edge Damage",
+      "id_type": "NODETREE",
+      "files": [
+        "assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "assets_thumbnails/Nodetree/fracture-edge-damage.webp",
+        "hash": "SHA256:4f08019eea791ed16a6abff05837570f33f78bf7729db28aa4657f5aa05f80a1"
+      },
+      "meta": {
+        "catalog_id": "5d170550-bb77-463a-bf05-85f00df7b130",
+        "author": "Jolan Huijskes",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 2112
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "assets.blend",
+      "size_in_bytes": 265118,
+      "hash": "SHA256:8a4902b0795472baea5dc8ca6a24c9d57de5d43f49a5eff7e9d72547c7a33857",
+      "blender_version": "5.2.44"
+    }
+  ]
+}

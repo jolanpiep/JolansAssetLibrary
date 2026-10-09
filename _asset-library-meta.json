@@ -1,0 +1,14 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:8a73eae42af6143b60aa3e808e8c7239641f790004cf1f4643cea2cf55eba9d0"
+    }
+  },
+  "name": "Jolan's Assets",
+  "contact": {
+    "name": "Jolan Huijskes",
+    "url": "https://www.artstation.com/jolanpiep",
+    "email": ""
+  }
+}
