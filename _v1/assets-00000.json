@@ -1,7 +1,30 @@
 {
-  "asset_count": 1,
+  "asset_count": 7,
   "file_count": 1,
   "assets": [
+    {
+      "name": "Edge Length",
+      "id_type": "NODETREE",
+      "files": [
+        "assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b6bb38bb-bfe1-4a12-b2bc-fc87d060864f",
+        "description": "Returns the length of an edge",
+        "license": "CC0 - Public Domain",
+        "copyright": "Blender Foundation",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
     {
       "name": "Fracture & Edge Damage",
       "id_type": "NODETREE",
@@ -13,11 +36,14 @@
       },
       "thumbnail": {
         "url": "assets_thumbnails/Nodetree/fracture-edge-damage.webp",
-        "hash": "SHA256:4f08019eea791ed16a6abff05837570f33f78bf7729db28aa4657f5aa05f80a1"
+        "hash": "SHA256:b963800358be5669fa0548b21e6344219c91b019d54dd2167b4ae696ef0a6321"
       },
       "meta": {
         "catalog_id": "5d170550-bb77-463a-bf05-85f00df7b130",
         "author": "Jolan Huijskes",
+        "description": "Procedural destruction effect for manifold meshes",
+        "license": "CC0 - Public Domain",
+        "copyright": "Jolan Huijskes",
         "properties": [
           {
             "name": "type",
@@ -31,13 +57,124 @@
           }
         ]
       }
+    },
+    {
+      "name": "Geometry Principal Components",
+      "id_type": "NODETREE",
+      "files": [
+        "assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "9cff2dd6-c78b-41b3-a00e-32f116e1d95a",
+        "description": "Principal Component Analysis (PCA) of a the positions of points",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Is Edge Boundary",
+      "id_type": "NODETREE",
+      "files": [
+        "assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b6bb38bb-bfe1-4a12-b2bc-fc87d060864f",
+        "description": "Returns a selection of boundary edges",
+        "license": "CC0 - Public Domain",
+        "copyright": "Blender Foundation",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Principal Components",
+      "id_type": "NODETREE",
+      "files": [
+        "assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "373286bf-39ea-4988-bbb0-cf334c19cf6b",
+        "description": "Principal Component Analysis (PCA) of a vector field",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Random Rotation",
+      "id_type": "NODETREE",
+      "files": [
+        "assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b8945cf7-3045-4675-aae3-0b0eba853415",
+        "description": "Returns a uniformly distributed random rotation",
+        "license": "CC0 - Public Domain",
+        "copyright": "Blender Foundation",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Smooth Geometry",
+      "id_type": "NODETREE",
+      "files": [
+        "assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "463e71f0-6db1-41af-bc96-6f875196aac7",
+        "description": "Smooth connected parts of a geometry",
+        "license": "CC0 - Public Domain",
+        "copyright": "Blender Foundation",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
     }
   ],
   "files": [
     {
       "path": "assets.blend",
-      "size_in_bytes": 265118,
-      "hash": "SHA256:8a4902b0795472baea5dc8ca6a24c9d57de5d43f49a5eff7e9d72547c7a33857",
+      "size_in_bytes": 347632,
+      "hash": "SHA256:3573e5086c087302ad886023ee00c964015961ecb2f24ff62965e60b807a34c6",
       "blender_version": "5.2.44"
     }
   ]
