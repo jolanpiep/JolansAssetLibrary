@@ -2,7 +2,7 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:ae6b6af15f189c41b293392538b438ba8ed936bfd01d9e1a1dad2edf2b6f5062"
+      "hash": "SHA256:79184eb3f15c0f4e5f8901819a24c35d16200982c22eee550cde57eb3d63a33f"
     }
   },
   "name": "Jolan's Assets",
